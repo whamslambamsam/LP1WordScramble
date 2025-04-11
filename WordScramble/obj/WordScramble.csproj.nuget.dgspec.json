@@ -46,6 +46,10 @@
             "Humanizer": {
               "target": "Package",
               "version": "[2.14.1, )"
+            },
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.50.0, )"
             }
           },
           "imports": [

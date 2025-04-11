@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u5XAucoD3xo=",
+  "dgSpecHash": "lLQyODm/Rz4=",
   "success": true,
   "projectFilePath": "C:\\Users\\caras\\desktop\\LP1\\LP1WordScramble\\WordScramble\\WordScramble.csproj",
   "expectedPackageFiles": [
@@ -53,7 +53,9 @@
     "C:\\Users\\caras\\.nuget\\packages\\humanizer.core.vi\\2.14.1\\humanizer.core.vi.2.14.1.nupkg.sha512",
     "C:\\Users\\caras\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\caras\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
-    "C:\\Users\\caras\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512"
+    "C:\\Users\\caras\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\caras\\.nuget\\packages\\spectre.console\\0.50.0\\spectre.console.0.50.0.nupkg.sha512",
+    "C:\\Users\\caras\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
   ],
   "logs": []
 }
